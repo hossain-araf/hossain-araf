@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,learning,making videos, 
 - 🌱 I’m currently learning ...python,data science,statistics
 - 💞️ I’m looking to collaborate on ...youtube and helping people
-- 📫 How to reach me ... facebook( https://www.facebook.com/profile.php?id=1000682201304420 ) youtube (ahblower)
+- 📫 How to reach me ... facebook( https://www.facebook.com/profile.php?id=1000682201304420 ) youtube (https://www.youtube.com/channel/UCU7-Ce91f29VpkOTevpyXVA)
 
 <!---
 hossain-araf/hossain-araf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

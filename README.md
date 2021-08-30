@@ -1,7 +1,7 @@
 - 👋 Hi, I’m araf hossain
 - 👀 I’m interested in programming,learning,making videos, 
-- 🌱 I’m currently learning ...python,data science,statistics
-- 💞️ I’m looking to collaborate on ...youtube and helping people
+- 🌱 I’m currently learning ...python,data science,java
+- 💞️ I’m looking to collaborate on ...youtube and helping people,and do something that matters
 - 📫 How to reach me ... facebook( https://www.facebook.com/profile.php?id=1000682201304420 ) youtube (https://www.youtube.com/channel/UCU7-Ce91f29VpkOTevpyXVA)
 
 <!---
